@@ -1,0 +1,5 @@
+hadoop scala
+spark flume
+zookeeper hadoop
+hive spark
+kafka hadoop
